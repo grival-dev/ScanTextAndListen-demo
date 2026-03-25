@@ -16,15 +16,6 @@ ScanTextAndPlay is a mobile app that allows you to **scan text from documents**,
 
 ---
 
-## Screenshots
-
-<!-- Replace with your actual images -->
-| Camera Scan | Library View | Reading Mode |
-|-------------|--------------|--------------|
-| ![Camera](assets/camera_preview.png) | ![Library](assets/library_view.png) | ![Reading](assets/reading_view.png) |
-
----
-
 ## Demo Video
 
 <!-- Replace with your actual demo video -->
