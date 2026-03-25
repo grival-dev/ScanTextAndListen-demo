@@ -21,7 +21,7 @@ ScanTextAndPlay is a mobile app that allows you to **scan text from documents**,
 <!-- Replace with your actual demo video -->
 <p align="center">
   <video width="320" height="240" controls>
-    <source src="assets/demo.mp4" type="video/mp4">
+    <source src="video/inVideo.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
 </p>
